@@ -1,0 +1,7 @@
+.onLoad(lib, pkg)
+{
+    require(mvtnorm)
+}
+
+export("ep", "ranMVN", "ranMVN2", "ranMvnXch")
+
