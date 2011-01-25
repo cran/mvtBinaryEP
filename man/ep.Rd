@@ -5,7 +5,8 @@
   Generates correlated binary data based on the method of Emrich and Piedmonte (1991)
 }
 \usage{
-ep(mu, R, rho, n, isd = NULL, nRep = 1, seed = NULL, crit = 1e-06, maxiter = 20)
+ep(mu, R, rho, n, isd = NULL, nRep = 1, seed = NULL, crit = 1e-06,
+maxiter = 20)
 }
 
 \arguments{
